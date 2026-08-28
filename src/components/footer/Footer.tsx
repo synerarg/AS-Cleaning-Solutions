@@ -84,11 +84,11 @@ export default function Footer() {
               <li>
                 <Link
                   target="_blank"
-                  href="tel:+56912345678"
+                  href="tel:+5491141815911"
                   className="text-gray-600 hover:text-blue-600 flex items-center"
                 >
                   <Phone size={22} className="mr-2" />
-                  (+54) 9 11 7065 9637
+                  (+54) 9 11 4181-5911
                 </Link>
               </li>
             </ul>
